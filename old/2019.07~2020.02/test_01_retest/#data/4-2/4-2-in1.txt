@@ -1,0 +1,22 @@
+5
+I
+not
+av
+it
+id
+15
+A: Why_did_you_cut_class_yesterday
+B: I_have_got_a_bad_cold
+A: Dont_fool_me_If_you_were_sick_why_not_ask_for_a_sick_leave
+B: Belive_it_or_not
+A: Have_you_made_your_decision?_But_its_really_dangerous
+B: Whatever_you_say_I_wont_chicken_out_on_things_Im_determined_to_do
+A: Stop_talking_big_You_cant_fool_me_Im_afraid_you_dont_know_how_to_do_it_at_all
+B: Well_believe_it_or_not_Ill_show_you_what_I_can_do
+C: Mom_I_just_finished_my_paper_Can_you_proofread_it_before_I_hand_it_in
+B: Sure_lets_take_a_look_Sweetie_this_is_terrific_Your_ideas_are_so_original
+F: Thanks
+F: I_can_tell_you_worked_hard_on_it
+B: I_really_did_I_started_thinking_about_what_I_wanted_to_say_three_weeks_ago
+B: Well_it_was_definitely_worth_all_the_time
+C: Lets_just_hope_my_teacher_agrees

@@ -1,0 +1,23 @@
+Ana: He***_Mr_S****_Wang_Peng_speaks
+Ben2333: He***_Mr_Wang_this_is_S****
+Ana: Im_calling_to_thank_you_for_the_wonderful_dinner_I_had_yester**y
+Ben2333: Its_a_pleasure
+Ana: Ill_come_back_to_China_tonight_I_hope_to_see_you_again_sometime
+Ben2333: I_hope_so
+Ana: I_appreciate_all_help_of_you_during_my_stay_here
+Ben2333: Dont_mention_it
+Ana: Please_let_me_know_when_you_go_to_China_and_let_me_be_of_some_assistance_to_you
+Ben2333: Yes_I_will_Have_a_nice_flight_back
+Ana: Thanks_g***-bye
+Ben2333: G***-bye
+Char: G***_morning_Paul
+Ben2333: Hi_g***_morning_you_are_so_early_to**y
+Ana: Yes_traffic_wasnt_much_to**y_so_I_made_it_to_the_office_earlier
+Ben2333: I_see_How_long_does_it_take_you_to_reach_the_office_every_**y
+Ana: Well_about_an_hour_or_so
+Ben2333: Wow_that’s_quite_a_long_journey_Do_you_drive_a_car
+Ana: No_I_take_public_transportation_Its_safer
+Ben2333: You_are_right
+Ben2333: ut_I_get_up_a_little_late_That_gives_me_no_other_option_but_to_travel_by_motorcycle
+Ana: Well_both_h*ve_*dv*nt*ges_*nd_dis*dv*nt*ges
+*system*: Ana is banned for talking aggressively

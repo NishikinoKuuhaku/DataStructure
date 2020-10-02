@@ -1,0 +1,16 @@
+A: Why_d**_you_cut_class_yesterday
+B: *_h**e_got_a_bad_cold
+A: Dont_fool_me_*f_you_were_sick_why_***_ask_for_a_sick_le**e
+B: Belive_**_or_***
+A: H**e_you_made_your_decision?_But_**s_really_dangerous
+B: Whatever_you_say_*_wont_chicken_out_on_things_*m_determined_to_do
+A: Stop_talking_big_You_cant_fool_me_*m_afra**_you_dont_know_how_to_do_**_at_all
+B: Well_believe_**_or_***_*ll_show_you_what_*_can_do
+C: Mom_*_just_finished_my_paper_Can_you_proofread_**_before_*_hand_**_in
+B: Sure_lets_take_a_look_Sweetie_this_is_terrific_Your_**eas_are_so_original
+F: Thanks
+F: *_can_tell_you_worked_hard_on_**
+B: *_really_d**_*_started_thinking_about_what_*_wanted_to_say_three_weeks_ago
+B: Well_**_was_defin**ely_worth_all_the_time
+C: Lets_just_hope_my_teacher_agrees
+*system*: B is banned for talking aggressively
